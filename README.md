@@ -6,7 +6,7 @@ About Me:
 
 Where to find me: 
 - Here 📍
-- <a href="elfagmammadaliyev@gmail.com">Email ✉️</a>
+- [Email ✉️](mailto:elfagmammadaliyev@gmail.com?subject=[Github]%20Source%20Han%20Sans)
 - <a href="https://www.linkedin.com/in/elfag-mammadaliyev-a022a41b8/">LinkedIn 💼</a>
 
 

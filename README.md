@@ -1,8 +1,8 @@
 # Hi, I'm Elfag 👋
 
 About Me: 
-- I am a Computer Science student and a frontend developer
-- I’m currently learning ReactJS
+- I am a Computer Science student and a software developer
+- I’m currently learning React and NodeJS
 
 Where to find me: 
 - Here 📍

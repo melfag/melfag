@@ -2,7 +2,7 @@
 
 About Me: 
 - I am a Computer Science student and a software developer
-- I’m currently learning React and NodeJS
+- I’m currently working with React and NodeJS
 
 Where to find me: 
 - Here 📍
